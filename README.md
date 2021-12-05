@@ -1,16 +1,11 @@
 # layouts
 
-A new Flutter project.
+Aplicativo do curso do professor Balta na plataforma balta.io, 
 
-## Getting Started
+Este projeto, é focado para Layouts e nele eu aprendi a criar formulários, campos para os formulários e aplicar as validações e exibir essas validações na tela, de forma simples e direta.
 
-This project is a starting point for a Flutter application.
+Além disso, aprendi a criar temas ( Dark Mode / Light Mode ) e modificar o tema da aplicação para o desejado. O Dark theme gasta menos bateria.
 
-A few resources to get you started if this is your first Flutter project:
+O red.theme foi um adicional que eu criei para acrescentar ao projeto, mas ainda precisa ser trabalhado / finalizado. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Por fim, aprendi a trabalhar com animações, componentes animados, como o Hero entre outros e animações via controller.
