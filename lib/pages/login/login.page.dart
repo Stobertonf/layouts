@@ -208,7 +208,7 @@ class LoginPage extends StatelessWidget {
                         height: 24,
                         width: 100,
                         child: Image.asset(
-                          "assets/facebook.png",
+                          "assets/images/facebook.png",
                         ),
                       ),
                       const Text("Sign In with Facebook"),
@@ -239,7 +239,7 @@ class LoginPage extends StatelessWidget {
                         height: 24,
                         width: 100,
                         child: Image.asset(
-                          "assets//google.png",
+                          "assets/images/google.png",
                         ),
                       ),
                       const Text("Sign In with Google"),
