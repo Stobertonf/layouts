@@ -239,7 +239,7 @@ class LoginPage extends StatelessWidget {
                         height: 24,
                         width: 100,
                         child: Image.asset(
-                          "assets/google.png",
+                          "assets//google.png",
                         ),
                       ),
                       const Text("Sign In with Google"),

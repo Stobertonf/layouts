@@ -42,7 +42,7 @@ class CartPage extends StatelessWidget {
                   ),
                   Container(
                     height: 50,
-                    width: 50,
+                    width: 150,
                     decoration: BoxDecoration(
                       color: Theme.of(context).primaryColor,
                       borderRadius: const BorderRadius.all(
