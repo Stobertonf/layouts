@@ -22,24 +22,24 @@ class HomePage extends StatelessWidget {
             ),
             Text(
               "Categories",
-              style: Theme.of(context).textTheme.headline1,
+              style: Theme.of(context).textTheme.headline4,
             ),
             const SizedBox(
               height: 10,
             ),
-             Container(
-              height: 90,
+            Container(
+              height: 80,
               child: CategoryList(),
             ),
             SizedBox(
-              height: 30,
+              height: 20,
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
                 Text(
                   "Best Selling",
-                  style: Theme.of(context).textTheme.headline1,
+                  style: Theme.of(context).textTheme.headline4,
                 ),
                 FlatButton(
                   child: Text("See All"),

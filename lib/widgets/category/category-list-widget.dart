@@ -12,7 +12,7 @@ class CategoryList extends StatelessWidget {
           CategoryItem(image: "assets/Icon_Gadgets.png"),
           CategoryItem(image: "assets/Icon_Gaming.png"),
           CategoryItem(image: "assets/Icon_Mens_Shoe.png"),
-          CategoryItem(image: "assets/Icon_Womans_Shoe.png"),
+          CategoryItem(image: "assets/Icon_Womens_Shoe.png"),
         ],
       ),
     );
